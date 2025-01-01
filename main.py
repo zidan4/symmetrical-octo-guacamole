@@ -11,3 +11,4 @@ cm_display = metrics.ConfusionMatrixDisplay(confusion_matrix = confusion_matrix,
 
 cm_display.plot()
 plt.show() 
+
